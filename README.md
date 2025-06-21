@@ -20,7 +20,7 @@ I'm **Keerthick V** – a passionate **Full-stack & Mobile Developer** who enjoy
 
 ## 💛 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keerthick-venkatesan/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-gray?style=for-the-badge&logo=github)](https://github.com/yourusername)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-gray?style=for-the-badge&logo=github)](https://github.com/Keerthick-1612)  
 
 ---
 
