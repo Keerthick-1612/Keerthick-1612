@@ -76,7 +76,6 @@ I'm **Keerthick V** – a passionate **Full-stack & Mobile Developer** who enjoy
 - Operating Systems  
 - Computer Networks  
 - Database Management Systems (DBMS)  
-- Design and Analysis of Algorithms (DAA)  
 
 ---
 
